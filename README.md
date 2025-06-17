@@ -23,16 +23,17 @@ An emulator or physical device for testing.
 
 Installation
 
-Clone the Repository  
+1.Clone the Repository  
 git clone https://github.com/quocnam2004/app_gameNumber.git
+
 cd app_gameNumber
 
 
-Install Dependencies  
+2.Install Dependencies  
 flutter pub get
 
 
-Run the App  
+3.Run the App  
 flutter run
 
 
