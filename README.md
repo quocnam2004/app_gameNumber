@@ -12,7 +12,7 @@ Number Game is an interactive mobile game designed to entertain and sharpen your
 ⚡ Lightweight & Fast: Optimized for smooth performance on all devices.
 
 🎨 UI/UX Design
-The app’s design is crafted in Figma. Check out the design prototype here:👉 View on Figma
+The app’s design is crafted in Figma. Check out the design prototype here:👉 **[Link Figma](https://www.figma.com/design/oGB6UbNOoGNOZwZRY6WKdb/ReactNative-%7C%7C-Flutter----Game-Number?node-id=212-2&p=f&t=UHWGAQAGBdasaLVL-0)**
 🚀 Getting Started
 Follow these steps to run the project locally:
 Prerequisites
